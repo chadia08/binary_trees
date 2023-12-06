@@ -103,3 +103,10 @@ nodo->left = NULL;
 }
 return (nodo);
 }
+
+/**
+ * binary_tree_balance - A function that measures the balance factor of a
+ * binary tree.
+ * @tree: Pointer to root node to calculate balance factor.
+ * Return: The balance factor of the tree.
+ */
